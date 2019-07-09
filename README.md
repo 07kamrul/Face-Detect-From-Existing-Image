@@ -1,1 +1,2 @@
-# G-Face-Detect-From-Existing-Image
+# Face_detect_from_existing_img
+Face recognition from img
